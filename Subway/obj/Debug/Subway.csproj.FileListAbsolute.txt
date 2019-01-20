@@ -1,0 +1,14 @@
+D:\Liz\课件及资料\RUNNING\Subway\Subway\obj\Debug\Subway.csprojAssemblyReference.cache
+D:\Liz\课件及资料\RUNNING\Subway\Subway\obj\Debug\Subway.Form1.resources
+D:\Liz\课件及资料\RUNNING\Subway\Subway\obj\Debug\Subway.Properties.Resources.resources
+D:\Liz\课件及资料\RUNNING\Subway\Subway\obj\Debug\Subway.csproj.GenerateResource.cache
+D:\Liz\课件及资料\RUNNING\Subway\Subway\obj\Debug\Subway.csproj.CoreCompileInputs.cache
+D:\Liz\课件及资料\RUNNING\Subway\Subway\bin\Debug\Subway.exe.config
+D:\Liz\课件及资料\RUNNING\Subway\Subway\bin\Debug\Subway.exe
+D:\Liz\课件及资料\RUNNING\Subway\Subway\bin\Debug\Subway.pdb
+D:\Liz\课件及资料\RUNNING\Subway\Subway\bin\Debug\Newtonsoft.Json.dll
+D:\Liz\课件及资料\RUNNING\Subway\Subway\bin\Debug\Newtonsoft.Json.pdb
+D:\Liz\课件及资料\RUNNING\Subway\Subway\bin\Debug\Newtonsoft.Json.xml
+D:\Liz\课件及资料\RUNNING\Subway\Subway\obj\Debug\Subway.csproj.CopyComplete
+D:\Liz\课件及资料\RUNNING\Subway\Subway\obj\Debug\Subway.exe
+D:\Liz\课件及资料\RUNNING\Subway\Subway\obj\Debug\Subway.pdb
